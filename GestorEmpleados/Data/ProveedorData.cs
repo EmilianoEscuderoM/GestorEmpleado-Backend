@@ -18,7 +18,7 @@ namespace MiWebAPI.Data
 
 
         ///// <summary>
-        ///// Consulta lista de proveedor
+        ///// Consulta lista de proveedor-------holi
         ///// </summary>
         ///// <returns></returns>
         public async Task<List<Proveedor>> GetProveedor(string filtro)
